@@ -1,5 +1,6 @@
 {
     "name": "lvsipay/lvsipay",
+    "version" : "1.0.1",
     "description": "Sipay Library by Lavanapp",
     "type": "library",
     "authors": [
