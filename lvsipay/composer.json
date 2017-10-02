@@ -1,0 +1,15 @@
+{
+    "name": "lavanapp/lvsipay",
+    "description": "Sipay Library by Lavanapp",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Fernando Dallago",
+            "email": "fernando@lavanapp.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+         "psr-4": {"Lvsipay\\": "src/Lvsipay"}
+     }
+}
