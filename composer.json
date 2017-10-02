@@ -1,25 +1,15 @@
 {
-    "name": "lvsipay/sipay",
-    "description": "Sipay Core SDK for PHP",
-    "keywords": ["sipay", "php", "sdk"],
+    "name": "lavanapp/lvsipay",
+    "description": "Sipay Library by Lavanapp",
     "type": "library",
-    "homepage": "https://github.com/lavanapp/lvsipay.git",
     "authors": [
         {
-            "name": "Clara Muñoz",
-            "email": "clara@lavanapp.com"
+            "name": "Fernando Dallago",
+            "email": "fernando@lavanapp.com"
         }
     ],
-    "require": {
-        "php": ">=5.3.0",
-        "ext-curl": "*"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "3.7.*"
-    },
+    "require": {},
     "autoload": {
-        "psr-4": {
-            "Sipay": "Sipay"
-        }
-    }
+         "psr-4": {"Lvsipay\\": "src/Lvsipay"}
+     }
 }
