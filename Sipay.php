@@ -1,10 +1,10 @@
 <?php
-namespace Sipay;
+namespace Lvsipay;
 
-use Sipay\Authentication\Auth;
-use Sipay\HttpClients\HttpClientsFactory;
-use Sipay\Exceptions\SipaySDKException;
-use Sipay\Url\SipayUrlManipulator;
+use Lvsipay\Authentication\Auth;
+use Lvsipay\HttpClients\HttpClientsFactory;
+use Lvsipay\Exceptions\SipaySDKException;
+use Lvsipay\Url\SipayUrlManipulator;
 
 /**
  * Class Sipay

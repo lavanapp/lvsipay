@@ -1,5 +1,5 @@
 <?php
-namespace Sipay\Http;
+namespace Lvsipay\Http;
 
 /**
  * Class GraphRawResponse
@@ -35,7 +35,7 @@ class GraphRawResponse
         if (is_numeric($httpStatusCode)) {
             $this->httpResponseCode = (int)$httpStatusCode;
         }
-        
+
         $this->headers = [];
         $this->body = $body;
     }

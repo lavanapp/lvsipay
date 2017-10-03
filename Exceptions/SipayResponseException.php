@@ -1,7 +1,7 @@
 <?php
-namespace Sipay\Exceptions;
+namespace Lvsipay\Exceptions;
 
-use Sipay\SipayResponse;
+use Lvsipay\SipayResponse;
 
 /**
  * Class SipayResponseException

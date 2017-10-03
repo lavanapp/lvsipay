@@ -1,5 +1,5 @@
 <?php
-namespace Sipay\Exceptions;
+namespace Lvsipay\Exceptions;
 
 /**
  * Class SipaySDKException

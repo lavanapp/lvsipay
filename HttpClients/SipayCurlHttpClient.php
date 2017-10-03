@@ -1,8 +1,8 @@
 <?php
-namespace Sipay\HttpClients;
+namespace Lvsipay\HttpClients;
 
-use Sipay\Http\GraphRawResponse;
-use Sipay\Exceptions\SipaySDKException;
+use Lvsipay\Http\GraphRawResponse;
+use Lvsipay\Exceptions\SipaySDKException;
 
 /**
  * Class SipayCurlHttpClient

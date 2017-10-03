@@ -1,5 +1,5 @@
 <?php
-namespace Sipay\HttpClients;
+namespace Lvsipay\HttpClients;
 
 use InvalidArgumentException;
 use Exception;
