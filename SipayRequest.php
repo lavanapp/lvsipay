@@ -1,7 +1,7 @@
 <?php
-namespace Sipay;
+namespace Lvsipay;
 
-use Sipay\Exceptions\SipaySDKException;
+use Lvsipay\Exceptions\SipaySDKException;
 
 /**
  * Class Request

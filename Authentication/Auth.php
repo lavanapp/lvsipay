@@ -1,8 +1,8 @@
 <?php
-namespace Sipay\Authentication;
+namespace Lvsipay\Authentication;
 
-use Sipay\SipayRequest;
-use Sipay\SipayClient;
+use Lvsipay\SipayRequest;
+use Lvsipay\SipayClient;
 
 /**
  * Class Authentication

@@ -1,9 +1,9 @@
 <?php
-namespace Sipay;
+namespace Lvsipay;
 
-use Sipay\HttpClients\SipayHttpClientInterface;
-use Sipay\HttpClients\SipayCurlHttpClient;
-use Sipay\Exceptions\SipaySDKException;
+use Lvsipay\HttpClients\SipayHttpClientInterface;
+use Lvsipay\HttpClients\SipayCurlHttpClient;
+use Lvsipay\Exceptions\SipaySDKException;
 
 /**
  * Class SipayClient

@@ -1,5 +1,5 @@
 <?php
-namespace Sipay\Url;
+namespace Lvsipay\Url;
 
 /**
  * Class SipayUrlManipulator

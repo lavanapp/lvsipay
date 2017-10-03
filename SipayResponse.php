@@ -1,8 +1,8 @@
 <?php
-namespace Sipay;
+namespace Lvsipay;
 
-use Sipay\Exceptions\SipayResponseException;
-use Sipay\Exceptions\SipaySDKException;
+use Lvsipay\Exceptions\SipayResponseException;
+use Lvsipay\Exceptions\SipaySDKException;
 
 /**
  * Class SipayResponse
@@ -55,7 +55,7 @@ class SipayResponse
         $this->body = $body;
         $this->httpStatusCode = $httpStatusCode;
         $this->headers = $headers;
-        
+
         $this->decodeBody();
     }
 
