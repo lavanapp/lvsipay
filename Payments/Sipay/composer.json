@@ -1,6 +1,6 @@
 {
     "name": "lavanapp/lvsipay",
-    "version" : "1.0.2",
+    "version" : "1.0.3",
     "description": "Sipay Library by Lavanapp",
     "type": "library",
     "authors": [
@@ -11,6 +11,7 @@
     ],
     "require": {},
     "autoload": {
-         "psr-4": {"Lavanapp\\Lvsipay\\": "src"}
-     }
+         "psr-0": { "Payments\\Sipay\\": "" }
+     },
+    "target-dir": "Payments/Sipay"
 }
