@@ -60,7 +60,7 @@ class SipayClient
     /**
      * @const string Path where the certificate is found
      */
-    const LIVE_SSL_CERT = '/certs/live/E-Commerce.cliente.LAVANAPP.pem';
+    const LIVE_SSL_CERT = '/certs/live/E-Commerce.cliente.LAVANAPP_1.pem';
 
     /**
      * @const string Path where the certificate key is found
