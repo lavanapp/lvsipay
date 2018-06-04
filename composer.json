@@ -1,12 +1,12 @@
 {
     "name": "lavanapp/lvsipay",
-    "version" : "1.0.8",
+    "version" : "1.0.9",
     "description": "Sipay Library by Lavanapp",
     "type": "library",
     "authors": [
         {
-            "name": "Fernando Dallago",
-            "email": "fernando@lavanapp.com"
+            "name": "Clara Munoz",
+            "email": "clara@lavanapp.com"
         }
     ],
     "require": {},
